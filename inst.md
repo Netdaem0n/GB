@@ -22,6 +22,22 @@
 
 *git diff* - **сравнение изменений**
 
+# Ветвление (Ветки)
+
+*git branch* - **вывод информации о ветках и текущей ветки**
+
+*git branch <NAME>* - **создать ветку NAME**
+
+*git checkout <NAME>* - **перейти в ветку NAME**
+
+*git checkout -b <NAME>* - **создать и перейти в ветку NAME**
+
+*git merge <NAME>* - **слияние ветки**
+
+*git branch -d <NAME>* - **удаление ветки**
+
+
+
 ## Есть вопросы?
 ![](img/stack.jpg)
 ## Есть https://stackoverflow.com/
